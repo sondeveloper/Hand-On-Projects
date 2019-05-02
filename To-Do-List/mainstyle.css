@@ -1,0 +1,128 @@
+body {
+	background-color: #f6f6f6;
+}
+
+.header {
+	font-family: "Shadows Into Light Two", cursive;
+	margin: 0 0 10px 20px;
+}
+
+.list, .login {
+	background-color: #fff;
+	margin: 15px auto;
+	width: 100%;
+	max-width: 500px;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 0 rgba(0,0,0,0.2);
+	box-sizing: border-box;
+}
+
+.list {
+
+}
+
+.list .header, .login .header {
+	font-family: "Shadows Into Light Two", cursive;
+	margin: 0 0 10px 0;
+}
+
+.logform {
+	margin-top: 40px;
+}
+
+.items {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.items li {
+	border-bottom: 1px dashed brown;
+	padding: 15px 0;
+}
+
+.items .items.done {
+	text-decoration: line-through;
+
+}
+
+.done-button {
+	display: inline-block;
+	font-size: 0.9em;
+	background-color: #ddd;
+	color: #363639;
+	padding: 3px 6px;
+	border:0;
+	opacity: 0.4;
+}
+
+.create {
+	display: inline-block;
+	font-size: 0.8em;
+	background-color: #d9dfe1;
+	color: #000;
+	padding: 3px 6px;
+	border:0;
+	opacity: 0.4;
+}
+
+.items li, .item-add .input {
+	border:0;
+	border-bottom: 1px dashed #ccc;
+	padding: 15px 0;
+}
+
+.input {
+	width: 100%;
+}
+
+.submit {
+	background-color: #fff;
+	padding: 5px 10px;
+	border:1px solid #ddd;
+	width: 100%;
+	margin-top: 10px;
+	box-shadow: 3px 3px 0 #ddd;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.resetlink {
+	padding-top: 20px;
+}
+
+.errmsg {
+	color: red;
+	margin-bottom: 12px;
+}
+
+.toplink {
+	margin:70px auto 0;
+	width: 100%;
+	max-width: 500px;
+	padding: 10px;
+}
+
+.toplink a {
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
