@@ -22,3 +22,9 @@ With To-Do-List application, you can perform the following:
 * Mark done task
 
 You can add more features to the applications.
+
+# Requirements Software are:
+* Xampp Server(apache: PHP and MYSQL)
+* HTML5 
+* Bootstrap CSS
+* jQuery
